@@ -1,5 +1,5 @@
 const char = createAtur('Atur');
-const monster = createLittleMonster('Monstro Pequeno');
+const monster = createGeovannitas('Govana');
 
 stage.start(
     char,
